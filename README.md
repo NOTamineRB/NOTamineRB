@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there It's me aminerb 👋
 
-<!--
-**NOTamineRB/NOTamineRB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/ishan-me/ishan-me.svg)](http://hits.dwyl.com/ishan-me/ishan-me)
 
-Here are some ideas to get you started:
+Gist About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎤 I am a passonate Computer science Masters student
+- 🛸 Learning everyday, currently learning to master Python, Java, TS etc ...
+- 🌋 I’m always looking for challenging work oppurtunities ahead.
+- 💬 Actively writing blogs [Check it Out!](https://medium.com/@ishan02016)
+- 📬 How to reach me: <a href="amine.rb.ar@gmail.com">Let's get in touch!</a>
+- 🧗🏾‍♀️ I try to: Go beyond and push the bounds
+
+### Other places you can find me 
+
+🐣 [See my Tweet](https://twitter.com/rb_amine)
+
+
+###
+
+I strongly belive we the professionals of tech industry need to learn and innovate. There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. Talking about me, I would call myself an intersection of developer(Fr) and designer. . I love trying out new technologies and update with modern tools helping our lives more easier.
+
+Happy coding !!
+
