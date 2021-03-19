@@ -7,8 +7,7 @@ Gist About me
 - 🎤 I am a passonate Computer science Masters student
 - 🛸 Learning everyday, currently learning to master Python, Java, TS etc ...
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
-- 💬 Actively writing blogs [Check it Out!](https://medium.com/@ishan02016)
-- 📬 How to reach me: <a href="amine.rb.ar@gmail.com">Let's get in touch!</a>
+- 📬 How to reach me: <a href="mailto:amine.rb.ar@gmail.com">Let's get in touch!</a>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
 ### Other places you can find me 
