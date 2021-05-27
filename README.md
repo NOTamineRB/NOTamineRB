@@ -1,4 +1,4 @@
-### Hi there It's me aminerb 👋
+### Hi there It's me Amine 👋
 
 [![HitCount](http://hits.dwyl.com/ishan-me/ishan-me.svg)](http://hits.dwyl.com/ishan-me/ishan-me)
 
