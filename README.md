@@ -1,6 +1,6 @@
 ### Hi there It's me Amine 👋
 
-[![HitCount](http://hits.dwyl.com/ishan-me/ishan-me.svg)](http://hits.dwyl.com/ishan-me/ishan-me)
+
 
 Gist About me
 
