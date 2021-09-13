@@ -4,8 +4,8 @@
 
 Gist About me
 
-- 🎤 I am a passonate Computer science Masters student
-- 🛸 Learning everyday, currently learning to master Python, Java, TS etc ...
+- 👀 I am a passonate Computer science Masters students & Certified Google Data Analytics
+- 🛸 Learning everyday, currently learning learning Machine learning / Blockchain Applications .
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 📬 How to reach me: <a href="mailto:amine.rb.ar@gmail.com">Let's get in touch!</a>
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
