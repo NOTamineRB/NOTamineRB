@@ -4,7 +4,7 @@
 ## Computer science Masters students 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-aminerb-blue)](https://www.linkedin.com/in/aminerb/)
-[![](https://img.shields.io/badge/Gmail-aminerb%40gmail.com-red)](mailto:mohamedamine.elrharroubi@etu.uae.ac.ma)
+[![](https://img.shields.io/badge/Gmail-mohamedamine.elrharroubi@etu.uae.ac.ma%40gmail.com-red)](mailto:mohamedamine.elrharroubi@etu.uae.ac.ma)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
