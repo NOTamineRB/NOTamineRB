@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-- 🛸 Learning everyday, currently learning learning Machine learning / Blockchain Applications.
+- 🛸 Learning everyday, currently learning Machine learning / Blockchain Applications.
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
