@@ -20,7 +20,7 @@
 
 ###
 
-I strongly belive we the professionals of tech industry need to learn and innovate. 
+I strongly belive we the professionals of tech industry need to learn and innovate.     
 There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change. 
 Talking about me, I would call myself an intersection of developer and data analyste.
 I love trying out new technologies and update with modern tools helping our lives more easier.
