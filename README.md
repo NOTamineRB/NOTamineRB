@@ -3,7 +3,7 @@
 ## 🙏, I'm ASHRAF K.M 
 ## Computer science Masters students 👨‍💻
 
-[![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/aminerb/)
+[![](https://img.shields.io/badge/LinkedIn-aminerb-blue)](https://www.linkedin.com/in/aminerb/)
 [![](https://img.shields.io/badge/Gmail-ashrafkm010%40gmail.com-red)](mailto:mohamedamine.elrharroubi@etu.uae.ac.ma)
 
 
@@ -32,14 +32,4 @@ I strongly belive we the professionals of tech industry need to learn and innova
 
 
 
-### Hi there It's me Amine 👋
-
-
-
-Gist About me
-
-- 👀 I am a passonate Computer science Masters students & Certified Google Data Analytics
-
-
-Happy coding !!
 
