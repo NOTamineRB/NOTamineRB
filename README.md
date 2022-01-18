@@ -1,6 +1,6 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## 🙏, I'm Amine 
+## 🙏 I'm Amine 
 ## Computer science Masters students 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-aminerb-blue)](https://www.linkedin.com/in/aminerb/)
