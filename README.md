@@ -4,7 +4,7 @@
 ## Computer science Masters students 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-aminerb-blue)](https://www.linkedin.com/in/aminerb/)
-[![](https://img.shields.io/badge/Gmail-mohamedamine.elrharroubi@etu.uae.ac.ma-red)](mailto:mohamedamine.elrharroubi@etu.uae.ac.ma)
+[![](https://img.shields.io/badge/Gmail-amine.srog@gmail.com-red)](mailto:mohamedamine.elrharroubi@etu.uae.ac.ma)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -13,17 +13,12 @@
 - 🌋 I’m always looking for challenging work oppurtunities ahead.
 - 🧗🏾‍♀️ I try to: Go beyond and push the bounds
 
-### Other places you can find me 
 
-🐣 [See my Tweet](https://twitter.com/rb_amine)
 
 
 ###
 
-I strongly believe we the professionals of tech industry need to learn and innovate.     
-There is constant change in the technologies in the tech market where we need to update ourselves with. The only thing that is constant is change.               
-Talking about me, I would call myself an intersection of developer and data analyste.    
-I love trying out new technologies and update with modern tools helping our lives more easier.
+I am currently a Mobile Developer at STG Telematics Morocco. I am open-minded and I appreciate teamwork. I am able to increase my skills on different projects and train myself to adapt to different issues.
 ---
 ⭐️ From [@rb_amine](https://github.com/NOTamineRB)
 
