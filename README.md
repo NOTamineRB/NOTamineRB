@@ -18,7 +18,7 @@
 
 ###
 
-I am currently a Mobile Developer at STG Telematics Morocco. I am open-minded and I appreciate teamwork. I am able to increase my skills on different projects and train myself to adapt to different issues.
+ I am open-minded and I appreciate teamwork. I am able to increase my skills on different projects and train myself to adapt to different issues.
 ---
 ⭐️ From [@rb_amine](https://github.com/NOTamineRB)
 
