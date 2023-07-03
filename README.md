@@ -1,7 +1,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 ## 🙏 I'm Amine 
-## Lead Mobile Developer 👨‍💻
+## Mobile Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-aminerb-blue)](https://www.linkedin.com/in/aminerb/)
 [![](https://img.shields.io/badge/Gmail-amine.srog@gmail.com-red)](mailto:amine.srog@gmail.com)
